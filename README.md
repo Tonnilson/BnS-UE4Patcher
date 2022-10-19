@@ -21,9 +21,9 @@ When first launching UE4 Patcher you will be prompted to select the game path, I
 If you have not already set the game path with NCLauncher you can just set your desired path, it's recommended to use the default naming scheme for each region if you intend to use NCLauncher (BnS_XXX) replace the XXX with one of the following below:
 
 ```
-LIVE = NC Korea
-UE4 = NCW (NA/EU)
-TWBNSUE4 = NCT (Taiwan)
+BNS_LIVE = NC Korea
+BnS_UE4 = NCW (NA/EU)
+BnS_TWBNSUE4 = NCT (Taiwan)
 ```
 
 Afterwards you should be ready to go, you should tweak the updater threads to reflect your system. If you have a 6-core or higher processor you should use 4-6 updater threads. Please note that memory usage will be tied in with updater threads. Most will people want to have at least 4 updater threads, people with older machines and less than 16GB of RAM will want to use 2-3.
