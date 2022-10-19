@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-namespace UE4Patcher.Extensions
+
+namespace UE4_Patcher.Extensions
 {
     class ConcatStream : Stream
     {

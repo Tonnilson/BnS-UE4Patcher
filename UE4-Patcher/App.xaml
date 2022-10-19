@@ -1,8 +1,8 @@
-﻿<Application x:Class="UE4Patcher.App"
+﻿<Application x:Class="UE4_Patcher.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:gif="https://github.com/XamlAnimatedGif/XamlAnimatedGif"
-             xmlns:local="clr-namespace:UE4Patcher"
+             xmlns:local="clr-namespace:UE4_Patcher"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
         <Style TargetType="{x:Type DataGridRow}">
@@ -27,7 +27,7 @@
                 </Trigger>
             </Style.Triggers>
         </Style>
-        
+
         <Style x:Key="ScrollThumbs" TargetType="{x:Type Thumb}">
             <Setter Property="Template">
                 <Setter.Value>

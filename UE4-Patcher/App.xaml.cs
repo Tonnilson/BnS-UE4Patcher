@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace UE4Patcher
+namespace UE4_Patcher
 {
     /// <summary>
     /// Interaction logic for App.xaml

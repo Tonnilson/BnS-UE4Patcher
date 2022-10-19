@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows;
 using System.Windows.Controls;
-namespace UE4Patcher
+namespace UE4_Patcher
 {
     class Dispatchers
     {

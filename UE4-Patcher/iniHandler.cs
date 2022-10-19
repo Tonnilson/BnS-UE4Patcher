@@ -1,7 +1,7 @@
 ﻿using System.Runtime.InteropServices;
 using System.Text;
 
-namespace UE4Patcher
+namespace UE4_Patcher
 {
     public class IniHandler
     {
