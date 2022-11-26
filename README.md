@@ -1,5 +1,6 @@
 # Blade and Soul UE4 Game Updater
 An alternative method for installing and updating Blade & Soul for North America/Europe
+For the compiled binary please refer to the releases section https://github.com/Tonnilson/BnS-UE4Patcher/releases
 
 ![Main Image](https://i.imgur.com/CCf75hU.png)
 
