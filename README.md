@@ -43,7 +43,7 @@ As stated above multiple times this utilizes paralell processing (multi-threadin
 Again yes, it is safe. This retrieves the files the same way NCLauncher does and it applies patches the exact same way as NCLauncher.
 
 #### Why does this require less space to install?
-NCLauncher downloads files, merges files together and then decompresses those files then finally after all of that it moves or patches the file into where it needs to go, throughout that entire process it does not clean up after its self until it fully finishes thus leaving a bunch of junk is left during the process.
+NCLauncher downloads files, merges files together and then decompresses those files then finally after all of that it moves or patches the file into where it needs to go, throughout that entire process it does not clean up after its self until it fully finishes thus leaving a bunch of junk left during the process.
 
 UE4-Patcher downloads files, merges ones that need to be merged while removing the split parts then decompresses the file, after decompression the compressed file is removed and the decompressed file is moved or patched into where it needs to go.
 
